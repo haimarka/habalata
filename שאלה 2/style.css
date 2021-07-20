@@ -1,0 +1,58 @@
+body{
+    background-image: url(./buterfly.jpg);
+   
+    
+    
+}
+
+
+.beetle{
+    width: 700px;
+    height: 400px;
+    position: relative;
+    top: 5px;
+    right:54%;   
+}
+
+button{
+    position: absolute;
+    left: 30px;
+    bottom: 280px;
+    width: 13%;
+    height: 6%;
+    opacity: 0.5;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    bottom: 650px;
+    left: 20px;
+    background-color: rgb(79, 79, 255);
+}
+header{
+    width: 100%;
+    background-color: rgb(79, 79, 255);
+}
+
+li{
+    display: inline-block; 
+    align-items: center;
+    margin: 20px;
+}
+
+h1 {
+    display: flex;
+    justify-content: flex-end;
+
+
+    
+}
+    
+p {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction:
+    
+}
+    

@@ -1,0 +1,30 @@
+ @media only screen and (max-width: 1024px) {
+    body {
+        background-color: rgb(104, 255, 104);
+       
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: rgb(91, 121, 255);
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    body {
+        background-color: rgb(247, 91, 169);
+    }
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    justify-content: space-between;
+}
+
+#lion:hover{
+    filter: brightness(125%);
+}
+
+
